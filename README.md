@@ -10,7 +10,7 @@ The project combines **demand forecasting** with **inventory optimization** to s
 
 The report consists of **two dashboard pages**:
 
-1. **Demand Forecast** – predicts future product demand using Holt-Winters Exponential Smoothing and highlights demand trends.
+1. **Demand Forecast** – predicts future product demand using Holt-Winters Exponential Smoothing method and highlights demand trends.
 2. **Inventory Optimization** – converts forecast results into inventory planning metrics including Safety Stock, Reorder Point, and ABC–XYZ classification.
 
 ---
